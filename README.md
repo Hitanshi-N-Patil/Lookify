@@ -76,7 +76,7 @@ Database: MongoDB for storing user profiles, products, orders, and wishlist item
 
 • Clone the Repository
 
-git clone https://github.com/yourusername/lookify.git  
+git clone https://github.com/Hitanshi-N-Patil/lookify.git  
 
 cd lookify 
 
